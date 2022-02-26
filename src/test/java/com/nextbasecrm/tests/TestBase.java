@@ -1,2 +1,4 @@
-package com.nextbasecrm.tests;public class TestBase {
+package com.nextbasecrm.tests;
+
+public class TestBase {
 }
